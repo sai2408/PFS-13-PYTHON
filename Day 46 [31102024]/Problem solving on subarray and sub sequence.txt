@@ -1,0 +1,12 @@
+Subarray
+Problem - 1 [ Longest subarray with product == target ]
+Problem - 2 [ Shortest subarray with product == target ]
+Problem - 3 [ Longest subarray with sum == target ]
+Problem - 4 [ Shortest subsequence with sum == target ]
+
+
+Sub sequence
+Problem - 1 [ Longest subsequence with product == target ]
+Problem - 2 [ Shortest subsequence with product == target ]
+Problem - 3 [ Longest subsequence with sum == target ]
+Problem - 4 [ Shortest subsequence with sum == target ]
